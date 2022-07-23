@@ -1,0 +1,15 @@
+{
+  "name": "react-native-swipetogo",
+  "version": "1.0.0",
+  "description": "swipe to do any function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "swipetogo",
+    "react-native-swipetogo"
+  ],
+  "author": "Bhojani Asgar <im.bhojaniasgar@gmail.com>",
+  "license": "ISC"
+}
