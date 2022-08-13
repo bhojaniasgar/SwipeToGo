@@ -3,9 +3,9 @@
 This dependency is used when you have to perform some action while you have to swipe and do any call 
 
 # Installation 
- `yarn add react-native-swipetogo`
+ ```yarn add react-native-swipetogo```
 
- `npm install react-native-swipetogo`
+ ```npm install react-native-swipetogo```
  
 # usage
 ```
