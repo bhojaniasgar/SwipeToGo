@@ -1,6 +1,6 @@
 {
   "name": "react-native-swipetogo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "swipe to do any function",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,13 @@
     "react-native-swipetogo"
   ],
   "author": "Bhojani Asgar <im.bhojaniasgar@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhojaniasgar/SwipeToGo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhojaniasgar/SwipeToGo/issues"
+  },
+  "homepage": "https://github.com/bhojaniasgar/SwipeToGo#readme"
 }
